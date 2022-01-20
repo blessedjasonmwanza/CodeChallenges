@@ -1,7 +1,7 @@
 // ! NEEDS error fixing to pass all test
 
 /**
- * CHALLENGE ADAPTED FROM hackerank
+ * CHALLENGE ADAPTED FROM hackerank https://www.hackerrank.com/challenges/migratory-birds/
  * @param {} arr 
  * @returns 
  */
